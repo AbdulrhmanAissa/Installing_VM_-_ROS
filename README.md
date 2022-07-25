@@ -1,4 +1,4 @@
-Installing_VM_ROS
+# Installing_VM_ROS
 
 The first task that was required from us to do it in the summer internship with Smart Methods is to download the Virtual Machine and then download ROS on Ubuntu.
 
